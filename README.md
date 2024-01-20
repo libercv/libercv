@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Liberto Camús and I'm a Computer Science teacher.
+I've always enjoyed learning new things and since last year I've began to work teaching some of the things I learn.
+
+Apart from technology and FOSS software and hardware I like reading, music and films.
+
 <!--
 **libercv/libercv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
